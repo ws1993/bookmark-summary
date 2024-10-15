@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2024-10-15) [We choose go to the moon!——Part II - 少数派](202410/2024-10-15-we-choose-go-to-the-moon%21%E2%80%94%E2%80%94part-ii---%E5%B0%91%E6%95%B0%E6%B4%BE.md)
 - (2024-10-15) [We choose go to the moon!——Part I - 少数派](202410/2024-10-15-we-choose-go-to-the-moon%21%E2%80%94%E2%80%94part-i---%E5%B0%91%E6%95%B0%E6%B4%BE.md)
 - (2024-10-14) [Emby 公益服初体验及劝退指南](202410/2024-10-14-emby-%E5%85%AC%E7%9B%8A%E6%9C%8D%E5%88%9D%E4%BD%93%E9%AA%8C%E5%8F%8A%E5%8A%9D%E9%80%80%E6%8C%87%E5%8D%97.md)
 - (2024-10-12) [js获取上传文件的后缀名和大小_js 上传图片 后缀名称-CSDN博客](202410/2024-10-12-js%E8%8E%B7%E5%8F%96%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6%E7%9A%84%E5%90%8E%E7%BC%80%E5%90%8D%E5%92%8C%E5%A4%A7%E5%B0%8F_js-%E4%B8%8A%E4%BC%A0%E5%9B%BE%E7%89%87-%E5%90%8E%E7%BC%80%E5%90%8D%E7%A7%B0-csdn%E5%8D%9A%E5%AE%A2.md)
