@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2024-10-22) [UE、Unity、Cesium、Three.js四款3D引擎入门级对比分析](202410/2024-10-22-ue%E3%80%81unity%E3%80%81cesium%E3%80%81three.js%E5%9B%9B%E6%AC%BE3d%E5%BC%95%E6%93%8E%E5%85%A5%E9%97%A8%E7%BA%A7%E5%AF%B9%E6%AF%94%E5%88%86%E6%9E%90.md)
 - (2024-10-18) [Android 打包分析 - xiaowang_lj - 博客园](202410/2024-10-18-android-%E6%89%93%E5%8C%85%E5%88%86%E6%9E%90---xiaowang_lj---%E5%8D%9A%E5%AE%A2%E5%9B%AD.md)
 - (2024-10-15) [We choose go to the moon!——Part II - 少数派](202410/2024-10-15-we-choose-go-to-the-moon%21%E2%80%94%E2%80%94part-ii---%E5%B0%91%E6%95%B0%E6%B4%BE.md)
 - (2024-10-15) [We choose go to the moon!——Part I - 少数派](202410/2024-10-15-we-choose-go-to-the-moon%21%E2%80%94%E2%80%94part-i---%E5%B0%91%E6%95%B0%E6%B4%BE.md)
