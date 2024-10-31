@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2024-10-31) [未来之门：在 MIX 的废墟里寻觅 - 少数派](202410/2024-10-31-%E6%9C%AA%E6%9D%A5%E4%B9%8B%E9%97%A8%EF%BC%9A%E5%9C%A8-mix-%E7%9A%84%E5%BA%9F%E5%A2%9F%E9%87%8C%E5%AF%BB%E8%A7%85---%E5%B0%91%E6%95%B0%E6%B4%BE.md)
 - (2024-10-24) [Coze+飞书多维表格，打造 AI 稍后读智能体，解锁 10 倍知识管理效率](202410/2024-10-24-coze%2B%E9%A3%9E%E4%B9%A6%E5%A4%9A%E7%BB%B4%E8%A1%A8%E6%A0%BC%EF%BC%8C%E6%89%93%E9%80%A0-ai-%E7%A8%8D%E5%90%8E%E8%AF%BB%E6%99%BA%E8%83%BD%E4%BD%93%EF%BC%8C%E8%A7%A3%E9%94%81-10-%E5%80%8D%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86%E6%95%88%E7%8E%87.md)
 - (2024-10-23) [pintree/README.zh.md at gh-pages · Pintree-io/pintree](202410/2024-10-23-pintree-readme.zh.md-at-gh-pages-%C2%B7-pintree-io-pintree.md)
 - (2024-10-22) [UE、Unity、Cesium、Three.js四款3D引擎入门级对比分析](202410/2024-10-22-ue%E3%80%81unity%E3%80%81cesium%E3%80%81three.js%E5%9B%9B%E6%AC%BE3d%E5%BC%95%E6%93%8E%E5%85%A5%E9%97%A8%E7%BA%A7%E5%AF%B9%E6%AF%94%E5%88%86%E6%9E%90.md)
