@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2024-11-01) [iPhone 加入游戏，但 USB-C 的乱纪元还没有完结 - 少数派](202411/2024-11-01-iphone-%E5%8A%A0%E5%85%A5%E6%B8%B8%E6%88%8F%EF%BC%8C%E4%BD%86-usb-c-%E7%9A%84%E4%B9%B1%E7%BA%AA%E5%85%83%E8%BF%98%E6%B2%A1%E6%9C%89%E5%AE%8C%E7%BB%93---%E5%B0%91%E6%95%B0%E6%B4%BE.md)
 - (2024-10-31) [未来之门：在 MIX 的废墟里寻觅 - 少数派](202410/2024-10-31-%E6%9C%AA%E6%9D%A5%E4%B9%8B%E9%97%A8%EF%BC%9A%E5%9C%A8-mix-%E7%9A%84%E5%BA%9F%E5%A2%9F%E9%87%8C%E5%AF%BB%E8%A7%85---%E5%B0%91%E6%95%B0%E6%B4%BE.md)
 - (2024-10-24) [Coze+飞书多维表格，打造 AI 稍后读智能体，解锁 10 倍知识管理效率](202410/2024-10-24-coze%2B%E9%A3%9E%E4%B9%A6%E5%A4%9A%E7%BB%B4%E8%A1%A8%E6%A0%BC%EF%BC%8C%E6%89%93%E9%80%A0-ai-%E7%A8%8D%E5%90%8E%E8%AF%BB%E6%99%BA%E8%83%BD%E4%BD%93%EF%BC%8C%E8%A7%A3%E9%94%81-10-%E5%80%8D%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86%E6%95%88%E7%8E%87.md)
 - (2024-10-23) [pintree/README.zh.md at gh-pages · Pintree-io/pintree](202410/2024-10-23-pintree-readme.zh.md-at-gh-pages-%C2%B7-pintree-io-pintree.md)
