@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2024-11-05) [使用mapbox-gl-js与turf.js绘制等值线图什么是等值线 等值线是制图对象某一数量指标值相等的各点连成的平滑 - 掘金](202411/2024-11-05-%E4%BD%BF%E7%94%A8mapbox-gl-js%E4%B8%8Eturf.js%E7%BB%98%E5%88%B6%E7%AD%89%E5%80%BC%E7%BA%BF%E5%9B%BE%E4%BB%80%E4%B9%88%E6%98%AF%E7%AD%89%E5%80%BC%E7%BA%BF-%E7%AD%89%E5%80%BC%E7%BA%BF%E6%98%AF%E5%88%B6%E5%9B%BE%E5%AF%B9%E8%B1%A1%E6%9F%90%E4%B8%80%E6%95%B0%E9%87%8F%E6%8C%87%E6%A0%87%E5%80%BC%E7%9B%B8%E7%AD%89%E7%9A%84%E5%90%84%E7%82%B9%E8%BF%9E%E6%88%90%E7%9A%84%E5%B9%B3%E6%BB%91---%E6%8E%98%E9%87%91.md)
 - (2024-11-01) [iPhone 加入游戏，但 USB-C 的乱纪元还没有完结 - 少数派](202411/2024-11-01-iphone-%E5%8A%A0%E5%85%A5%E6%B8%B8%E6%88%8F%EF%BC%8C%E4%BD%86-usb-c-%E7%9A%84%E4%B9%B1%E7%BA%AA%E5%85%83%E8%BF%98%E6%B2%A1%E6%9C%89%E5%AE%8C%E7%BB%93---%E5%B0%91%E6%95%B0%E6%B4%BE.md)
 - (2024-10-31) [未来之门：在 MIX 的废墟里寻觅 - 少数派](202410/2024-10-31-%E6%9C%AA%E6%9D%A5%E4%B9%8B%E9%97%A8%EF%BC%9A%E5%9C%A8-mix-%E7%9A%84%E5%BA%9F%E5%A2%9F%E9%87%8C%E5%AF%BB%E8%A7%85---%E5%B0%91%E6%95%B0%E6%B4%BE.md)
 - (2024-10-24) [Coze+飞书多维表格，打造 AI 稍后读智能体，解锁 10 倍知识管理效率](202410/2024-10-24-coze%2B%E9%A3%9E%E4%B9%A6%E5%A4%9A%E7%BB%B4%E8%A1%A8%E6%A0%BC%EF%BC%8C%E6%89%93%E9%80%A0-ai-%E7%A8%8D%E5%90%8E%E8%AF%BB%E6%99%BA%E8%83%BD%E4%BD%93%EF%BC%8C%E8%A7%A3%E9%94%81-10-%E5%80%8D%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86%E6%95%88%E7%8E%87.md)
