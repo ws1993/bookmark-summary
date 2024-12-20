@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2024-12-20) [别被"5分钟写个App"误导：Cursor深度实践](202412/2024-12-20-%E5%88%AB%E8%A2%AB-5%E5%88%86%E9%92%9F%E5%86%99%E4%B8%AAapp-%E8%AF%AF%E5%AF%BC%EF%BC%9Acursor%E6%B7%B1%E5%BA%A6%E5%AE%9E%E8%B7%B5.md)
 - (2024-11-18) [11.11冠军单品极空间Z4Pro，10+种玩法推荐](202411/2024-11-18-11.11%E5%86%A0%E5%86%9B%E5%8D%95%E5%93%81%E6%9E%81%E7%A9%BA%E9%97%B4z4pro%EF%BC%8C10%2B%E7%A7%8D%E7%8E%A9%E6%B3%95%E6%8E%A8%E8%8D%90.md)
 - (2024-11-05) [前端vue页面实时播放海康威视监控视频 3种方法 - 不爱贞子爱爽子 - 博客园](202411/2024-11-05-%E5%89%8D%E7%AB%AFvue%E9%A1%B5%E9%9D%A2%E5%AE%9E%E6%97%B6%E6%92%AD%E6%94%BE%E6%B5%B7%E5%BA%B7%E5%A8%81%E8%A7%86%E7%9B%91%E6%8E%A7%E8%A7%86%E9%A2%91-3%E7%A7%8D%E6%96%B9%E6%B3%95---%E4%B8%8D%E7%88%B1%E8%B4%9E%E5%AD%90%E7%88%B1%E7%88%BD%E5%AD%90---%E5%8D%9A%E5%AE%A2%E5%9B%AD.md)
 - (2024-11-05) [使用mapbox-gl-js与turf.js绘制等值线图什么是等值线 等值线是制图对象某一数量指标值相等的各点连成的平滑 - 掘金](202411/2024-11-05-%E4%BD%BF%E7%94%A8mapbox-gl-js%E4%B8%8Eturf.js%E7%BB%98%E5%88%B6%E7%AD%89%E5%80%BC%E7%BA%BF%E5%9B%BE%E4%BB%80%E4%B9%88%E6%98%AF%E7%AD%89%E5%80%BC%E7%BA%BF-%E7%AD%89%E5%80%BC%E7%BA%BF%E6%98%AF%E5%88%B6%E5%9B%BE%E5%AF%B9%E8%B1%A1%E6%9F%90%E4%B8%80%E6%95%B0%E9%87%8F%E6%8C%87%E6%A0%87%E5%80%BC%E7%9B%B8%E7%AD%89%E7%9A%84%E5%90%84%E7%82%B9%E8%BF%9E%E6%88%90%E7%9A%84%E5%B9%B3%E6%BB%91---%E6%8E%98%E9%87%91.md)
