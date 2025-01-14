@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-01-14) [时序数据库 InfluxDB、TimeScaleDB和TDengine 对比 - 龙凌云端 - 博客园](202501/2025-01-14-%E6%97%B6%E5%BA%8F%E6%95%B0%E6%8D%AE%E5%BA%93-influxdb%E3%80%81timescaledb%E5%92%8Ctdengine-%E5%AF%B9%E6%AF%94---%E9%BE%99%E5%87%8C%E4%BA%91%E7%AB%AF---%E5%8D%9A%E5%AE%A2%E5%9B%AD.md)
 - (2025-01-13) [潮流周刊第208期 - 配新电脑](202501/2025-01-13-%E6%BD%AE%E6%B5%81%E5%91%A8%E5%88%8A%E7%AC%AC208%E6%9C%9F---%E9%85%8D%E6%96%B0%E7%94%B5%E8%84%91.md)
 - (2024-12-20) [别被"5分钟写个App"误导：Cursor深度实践](202412/2024-12-20-%E5%88%AB%E8%A2%AB-5%E5%88%86%E9%92%9F%E5%86%99%E4%B8%AAapp-%E8%AF%AF%E5%AF%BC%EF%BC%9Acursor%E6%B7%B1%E5%BA%A6%E5%AE%9E%E8%B7%B5.md)
 - (2024-11-18) [11.11冠军单品极空间Z4Pro，10+种玩法推荐](202411/2024-11-18-11.11%E5%86%A0%E5%86%9B%E5%8D%95%E5%93%81%E6%9E%81%E7%A9%BA%E9%97%B4z4pro%EF%BC%8C10%2B%E7%A7%8D%E7%8E%A9%E6%B3%95%E6%8E%A8%E8%8D%90.md)
