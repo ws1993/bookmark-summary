@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-04-08) [如何满足小众的录屏需求？自己配置 FFmpeg 解决问题 - 少数派](202504/2025-04-08-%E5%A6%82%E4%BD%95%E6%BB%A1%E8%B6%B3%E5%B0%8F%E4%BC%97%E7%9A%84%E5%BD%95%E5%B1%8F%E9%9C%80%E6%B1%82%EF%BC%9F%E8%87%AA%E5%B7%B1%E9%85%8D%E7%BD%AE-ffmpeg-%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98---%E5%B0%91%E6%95%B0%E6%B4%BE.md)
 - (2025-02-24) [时序数据库TimescaleDB是站在了PG的肩膀上？扒了扒了对于TimescaleDB来说，对于性能上可能处于下风，如 - 掘金](202502/2025-02-24-%E6%97%B6%E5%BA%8F%E6%95%B0%E6%8D%AE%E5%BA%93timescaledb%E6%98%AF%E7%AB%99%E5%9C%A8%E4%BA%86pg%E7%9A%84%E8%82%A9%E8%86%80%E4%B8%8A%EF%BC%9F%E6%89%92%E4%BA%86%E6%89%92%E4%BA%86%E5%AF%B9%E4%BA%8Etimescaledb%E6%9D%A5%E8%AF%B4%EF%BC%8C%E5%AF%B9%E4%BA%8E%E6%80%A7%E8%83%BD%E4%B8%8A%E5%8F%AF%E8%83%BD%E5%A4%84%E4%BA%8E%E4%B8%8B%E9%A3%8E%EF%BC%8C%E5%A6%82---%E6%8E%98%E9%87%91.md)
 - (2025-02-17) [【一文读懂】智慧水务中的总体架构、功能架构、网络架构、技术架构](202502/2025-02-17-%E3%80%90%E4%B8%80%E6%96%87%E8%AF%BB%E6%87%82%E3%80%91%E6%99%BA%E6%85%A7%E6%B0%B4%E5%8A%A1%E4%B8%AD%E7%9A%84%E6%80%BB%E4%BD%93%E6%9E%B6%E6%9E%84%E3%80%81%E5%8A%9F%E8%83%BD%E6%9E%B6%E6%9E%84%E3%80%81%E7%BD%91%E7%BB%9C%E6%9E%B6%E6%9E%84%E3%80%81%E6%8A%80%E6%9C%AF%E6%9E%B6%E6%9E%84.md)
 - (2025-01-14) [时序数据库 InfluxDB、TimeScaleDB和TDengine 对比 - 龙凌云端 - 博客园](202501/2025-01-14-%E6%97%B6%E5%BA%8F%E6%95%B0%E6%8D%AE%E5%BA%93-influxdb%E3%80%81timescaledb%E5%92%8Ctdengine-%E5%AF%B9%E6%AF%94---%E9%BE%99%E5%87%8C%E4%BA%91%E7%AB%AF---%E5%8D%9A%E5%AE%A2%E5%9B%AD.md)
