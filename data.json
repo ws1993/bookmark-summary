@@ -148,5 +148,11 @@
     "title": "DevOps Performance: InfluxDB and TimescaleDB vs. TDengine",
     "url": "https://tdengine.com/devops-performance-comparison-influxdb-and-timescaledb-vs-tdengine/",
     "timestamp": 1748312028
+  },
+  {
+    "month": "202505",
+    "title": "查询性能： TDengine 最高达到了 InfluxDB 的 37 倍、 TimescaleDB 的 28.6 倍 - 涛思数据TDengine - 博客园",
+    "url": "https://www.cnblogs.com/taosdata/p/17199193.html",
+    "timestamp": 1748312093
   }
 ]

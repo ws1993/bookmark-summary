@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-05-27) [查询性能： TDengine 最高达到了 InfluxDB 的 37 倍、 TimescaleDB 的 28.6 倍 - 涛思数据TDengine - 博客园](202505/2025-05-27-%E6%9F%A5%E8%AF%A2%E6%80%A7%E8%83%BD%EF%BC%9A-tdengine-%E6%9C%80%E9%AB%98%E8%BE%BE%E5%88%B0%E4%BA%86-influxdb-%E7%9A%84-37-%E5%80%8D%E3%80%81-timescaledb-%E7%9A%84-28.6-%E5%80%8D---%E6%B6%9B%E6%80%9D%E6%95%B0%E6%8D%AEtdengine---%E5%8D%9A%E5%AE%A2%E5%9B%AD.md)
 - (2025-05-27) [DevOps Performance: InfluxDB and TimescaleDB vs. TDengine](202505/2025-05-27-devops-performance-influxdb-and-timescaledb-vs.-tdengine.md)
 - (2025-04-09) [浅谈 AI 时代下的技术自学 - 少数派](202504/2025-04-09-%E6%B5%85%E8%B0%88-ai-%E6%97%B6%E4%BB%A3%E4%B8%8B%E7%9A%84%E6%8A%80%E6%9C%AF%E8%87%AA%E5%AD%A6---%E5%B0%91%E6%95%B0%E6%B4%BE.md)
 - (2025-04-08) [如何满足小众的录屏需求？自己配置 FFmpeg 解决问题 - 少数派](202504/2025-04-08-%E5%A6%82%E4%BD%95%E6%BB%A1%E8%B6%B3%E5%B0%8F%E4%BC%97%E7%9A%84%E5%BD%95%E5%B1%8F%E9%9C%80%E6%B1%82%EF%BC%9F%E8%87%AA%E5%B7%B1%E9%85%8D%E7%BD%AE-ffmpeg-%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98---%E5%B0%91%E6%95%B0%E6%B4%BE.md)
