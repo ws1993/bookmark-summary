@@ -142,5 +142,11 @@
     "title": "浅谈 AI 时代下的技术自学 - 少数派",
     "url": "https://sspai.com/post/97972",
     "timestamp": 1744164106
+  },
+  {
+    "month": "202505",
+    "title": "DevOps Performance: InfluxDB and TimescaleDB vs. TDengine",
+    "url": "https://tdengine.com/devops-performance-comparison-influxdb-and-timescaledb-vs-tdengine/",
+    "timestamp": 1748312028
   }
 ]
