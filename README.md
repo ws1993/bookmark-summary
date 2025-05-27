@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-05-27) [卖 AI 图，从开单到金盆洗手 - 少数派](202505/2025-05-27-%E5%8D%96-ai-%E5%9B%BE%EF%BC%8C%E4%BB%8E%E5%BC%80%E5%8D%95%E5%88%B0%E9%87%91%E7%9B%86%E6%B4%97%E6%89%8B---%E5%B0%91%E6%95%B0%E6%B4%BE.md)
 - (2025-05-27) [Replication（下）：事务，一致性与共识](202505/2025-05-27-replication%EF%BC%88%E4%B8%8B%EF%BC%89%EF%BC%9A%E4%BA%8B%E5%8A%A1%EF%BC%8C%E4%B8%80%E8%87%B4%E6%80%A7%E4%B8%8E%E5%85%B1%E8%AF%86.md)
 - (2025-05-27) [从AIGC到MCP：普通人需要了解的AI新进展及其技术本质 - 少数派](202505/2025-05-27-%E4%BB%8Eaigc%E5%88%B0mcp%EF%BC%9A%E6%99%AE%E9%80%9A%E4%BA%BA%E9%9C%80%E8%A6%81%E4%BA%86%E8%A7%A3%E7%9A%84ai%E6%96%B0%E8%BF%9B%E5%B1%95%E5%8F%8A%E5%85%B6%E6%8A%80%E6%9C%AF%E6%9C%AC%E8%B4%A8---%E5%B0%91%E6%95%B0%E6%B4%BE.md)
 - (2025-05-27) [查询性能： TDengine 最高达到了 InfluxDB 的 37 倍、 TimescaleDB 的 28.6 倍 - 涛思数据TDengine - 博客园](202505/2025-05-27-%E6%9F%A5%E8%AF%A2%E6%80%A7%E8%83%BD%EF%BC%9A-tdengine-%E6%9C%80%E9%AB%98%E8%BE%BE%E5%88%B0%E4%BA%86-influxdb-%E7%9A%84-37-%E5%80%8D%E3%80%81-timescaledb-%E7%9A%84-28.6-%E5%80%8D---%E6%B6%9B%E6%80%9D%E6%95%B0%E6%8D%AEtdengine---%E5%8D%9A%E5%AE%A2%E5%9B%AD.md)
