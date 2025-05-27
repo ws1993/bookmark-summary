@@ -154,5 +154,11 @@
     "title": "查询性能： TDengine 最高达到了 InfluxDB 的 37 倍、 TimescaleDB 的 28.6 倍 - 涛思数据TDengine - 博客园",
     "url": "https://www.cnblogs.com/taosdata/p/17199193.html",
     "timestamp": 1748312093
+  },
+  {
+    "month": "202505",
+    "title": "从AIGC到MCP：普通人需要了解的AI新进展及其技术本质 - 少数派",
+    "url": "https://sspai.com/post/99102",
+    "timestamp": 1748312159
   }
 ]
