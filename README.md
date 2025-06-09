@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-06-09) [假设 AI 未来真的能在写代码和系统设计上超过人类，那还有必要学习编程和系统设计吗？](202506/2025-06-09-%E5%81%87%E8%AE%BE-ai-%E6%9C%AA%E6%9D%A5%E7%9C%9F%E7%9A%84%E8%83%BD%E5%9C%A8%E5%86%99%E4%BB%A3%E7%A0%81%E5%92%8C%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E4%B8%8A%E8%B6%85%E8%BF%87%E4%BA%BA%E7%B1%BB%EF%BC%8C%E9%82%A3%E8%BF%98%E6%9C%89%E5%BF%85%E8%A6%81%E5%AD%A6%E4%B9%A0%E7%BC%96%E7%A8%8B%E5%92%8C%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E5%90%97%EF%BC%9F.md)
 - (2025-05-30) [Reinvent the Wheel | Matthias Endler](202505/2025-05-30-reinvent-the-wheel-matthias-endler.md)
 - (2025-05-30) [AI: Accelerated Incompetence](202505/2025-05-30-ai-accelerated-incompetence.md)
 - (2025-05-27) [卖 AI 图，从开单到金盆洗手 - 少数派](202505/2025-05-27-%E5%8D%96-ai-%E5%9B%BE%EF%BC%8C%E4%BB%8E%E5%BC%80%E5%8D%95%E5%88%B0%E9%87%91%E7%9B%86%E6%B4%97%E6%89%8B---%E5%B0%91%E6%95%B0%E6%B4%BE.md)
